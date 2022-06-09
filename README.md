@@ -7,9 +7,9 @@ Minikube is a local kubernetes.
 https://computingforgeeks.com/how-to-install-minikube-on-ubuntu-debian-linux/
 ## Use docker images on minikube
 https://levelup.gitconnected.com/two-easy-ways-to-use-local-docker-images-in-minikube-cd4dcb1a5379
-
-## Build docker image
 https://medium.com/swlh/how-to-run-locally-built-docker-images-in-kubernetes-b28fbc32cc1d
+to check files and run example go to the folder basic-kubernetes-with-echo-app
+
 
 ### Common errors
 ```
