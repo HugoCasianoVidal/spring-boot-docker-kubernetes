@@ -9,6 +9,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: pz/demo
+        image: hugocasiano/hello-world
         imagePullPolicy: Never
       restartPolicy: Never

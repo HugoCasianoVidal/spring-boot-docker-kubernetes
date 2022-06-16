@@ -5,7 +5,7 @@ eval $(minikube -p minikube docker-env)
 # Create the docker image
 ```
 cd app
-minikube image build -t hugocasiano/hello-world .
+minikube image build -t hugocasiano/hello-world ./app
 ```
 # Run kubernetes pod
 ```

@@ -1,5 +1,8 @@
 # spring-boot-docker-kubernetes
-Basic App which integrates Spring Boot, Docker and Kubernetes
+Exercises and resources to lean docker and kubernetes.
+
+#Tutorial con video de youtube sobre Kubernetes
+https://www.youtube.com/watch?v=DCoBcpOA7W4&t=3932s
 
 # Using Minikube
 Minikube is a local kubernetes.
